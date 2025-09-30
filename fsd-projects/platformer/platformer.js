@@ -44,7 +44,7 @@ createCollectable("grace", 200, 590);
 createCollectable("max", 300, 490);
 createCollectable("kennedi", 400, 390);
 createCollectable("database", 500, 290);
-createCollectable("steve", 600, 190);
+createCollectable("steve", 600, 190git commit -m "Finalized platformer game");
 
     // TODO 4 - Create Cannons
 createCannon("top", 200, 100);
